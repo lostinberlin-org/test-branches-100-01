@@ -1,1 +1,1 @@
-stage('test') { sleep 5; }
+stage('test') { sleep 10; }
